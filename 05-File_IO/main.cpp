@@ -133,10 +133,10 @@ void addEntity()
 
 int main()
 {
-	//digitalPrinter();
-	//info();
-	//toner();
-	//comma();
+	digitalPrinter();
+	info();
+	toner();
+	comma();
 	addEntity();
 	while (true);
 

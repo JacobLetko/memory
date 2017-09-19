@@ -1,0 +1,4 @@
+help - displays this menu
+save - saves the game
+load - loads previous saved game
+quit - quits game
